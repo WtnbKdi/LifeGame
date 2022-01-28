@@ -1,7 +1,7 @@
 # 説明
 CUIのLifeGameです。
 
-# Youtube
+# 実行動画
 https://youtu.be/KYgmr0Pyt3E
 
 # 画像
